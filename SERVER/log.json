@@ -1,0 +1,422 @@
+[
+  {
+    "timestamp": "2024-06-28T00:00:09.338Z",
+    "action": "insert",
+    "entity": "customers",
+    "data": {
+      "id": "326351243",
+      "name": "תהילה ",
+      "status": "Patur",
+      "phone": "0578472134",
+      "dateOpenTik": "2024-06-27T23:59:35.655Z",
+      "dochSnati": "לא הוגש",
+      "note": ""
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:00:09.366Z",
+    "action": "insert",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "326351243",
+      "zuir": "1",
+      "haratKeva": "143",
+      "pay": "2"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:00:43.719Z",
+    "action": "insert",
+    "entity": "customers",
+    "data": {
+      "id": "435678654",
+      "name": "רוחמי",
+      "status": "Morasha",
+      "phone": "0582345677",
+      "dateOpenTik": "2024-06-28T00:00:11.301Z",
+      "dochSnati": "לא הוגש",
+      "note": "היי"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:00:43.752Z",
+    "action": "insert",
+    "entity": "mursheDetalis",
+    "data": {
+      "id": "435678654",
+      "T100": "הוגש",
+      "pay": "1111"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:10:05.846Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "326351327",
+      "name": "נעמי",
+      "status": "Patur",
+      "phone": "054-8492055",
+      "dateOpenTik": "2024-06-27T23:32:24.421Z",
+      "dochSnati": "לא הוגש",
+      "note": "היי"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:10:05.881Z",
+    "action": "update",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "326351327",
+      "zuir": "1",
+      "haratKeva": "45",
+      "pay": "61"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:10:38.943Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "326351327",
+      "name": "נעמי",
+      "status": "Patur",
+      "phone": "054-8492055",
+      "dateOpenTik": "2024-06-27T23:32:24.421Z",
+      "dochSnati": "לא הוגש",
+      "note": "היי"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:10:38.985Z",
+    "action": "update",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "326351327",
+      "zuir": "1",
+      "haratKeva": "45",
+      "pay": "61"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:10:50.238Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "326351327",
+      "name": "נעמי",
+      "status": "Patur",
+      "phone": "054-8492055",
+      "dateOpenTik": "2024-06-27T23:32:24.421Z",
+      "dochSnati": "לא הוגש",
+      "note": "היי"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:10:50.270Z",
+    "action": "update",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "326351327",
+      "zuir": "1",
+      "haratKeva": "45",
+      "pay": "61"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:12:55.375Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "326351327",
+      "name": "נעמי",
+      "status": "Patur",
+      "phone": "054-8492055",
+      "dateOpenTik": "2024-06-27T23:32:24.421Z",
+      "dochSnati": "לא הוגש",
+      "note": "היי"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:12:55.407Z",
+    "action": "update",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "326351327",
+      "zuir": "1",
+      "haratKeva": "45",
+      "pay": "61"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:19:06.297Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "326351327",
+      "name": "נעמי",
+      "status": "Patur",
+      "phone": "054-8492055",
+      "dateOpenTik": "2024-06-27T23:32:24.421Z",
+      "dochSnati": "לא הוגש",
+      "note": "היי"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T00:19:06.367Z",
+    "action": "update",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "326351327",
+      "zuir": "1",
+      "haratKeva": "45",
+      "pay": "61"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T05:52:00.703Z",
+    "action": "insert",
+    "entity": "customers",
+    "data": {
+      "id": "313234321",
+      "name": "יעל",
+      "status": "Morasha",
+      "phone": "0548345432",
+      "dateOpenTik": "2024-06-28T05:51:19.161Z",
+      "dochSnati": "לא הוגש",
+      "note": ""
+    }
+  },
+  {
+    "timestamp": "2024-06-28T05:52:00.748Z",
+    "action": "insert",
+    "entity": "mursheDetalis",
+    "data": {
+      "id": "313234321",
+      "T100": "הוגש",
+      "pay": "11"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T05:52:54.542Z",
+    "action": "insert",
+    "entity": "customers",
+    "data": {
+      "id": "123322123",
+      "name": "רות",
+      "status": "Patur",
+      "phone": "0548492044",
+      "dateOpenTik": "2024-06-28T05:52:13.059Z",
+      "dochSnati": "לא הוגש",
+      "note": ""
+    }
+  },
+  {
+    "timestamp": "2024-06-28T05:52:54.574Z",
+    "action": "insert",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "123322123",
+      "zuir": "1",
+      "haratKeva": "198",
+      "pay": "1"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T05:53:09.972Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "123322123",
+      "name": "רות",
+      "status": "Patur",
+      "phone": "0548492044",
+      "dateOpenTik": "2024-06-28T05:52:13.059Z",
+      "dochSnati": "לא הוגש",
+      "note": ""
+    }
+  },
+  {
+    "timestamp": "2024-06-28T05:53:10.006Z",
+    "action": "update",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "123322123",
+      "zuir": "1",
+      "haratKeva": "198",
+      "pay": "12"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T06:44:12.225Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "313234321",
+      "name": "נעמי",
+      "status": "Morasha",
+      "phone": "0548345432",
+      "dateOpenTik": "2024-06-28T05:51:19.161Z",
+      "dochSnati": "לא הוגש",
+      "note": "עננ"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T06:44:12.270Z",
+    "action": "update",
+    "entity": "mursheDetalis",
+    "data": {
+      "id": "313234321",
+      "T100": "הוגש",
+      "pay": "11"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T06:46:00.241Z",
+    "action": "insert",
+    "entity": "customers",
+    "data": {
+      "id": "",
+      "name": "נעמי כהןגק",
+      "status": "Morasha",
+      "phone": "0גג",
+      "dateOpenTik": "2024-06-28T06:44:56.058Z",
+      "dochSnati": "לא הוגש",
+      "note": "1"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T06:46:00.277Z",
+    "action": "insert",
+    "entity": "mursheDetalis",
+    "data": {
+      "id": "",
+      "T100": "1",
+      "pay": "1"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T07:14:08.379Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "326351327",
+      "name": "נעמי",
+      "status": "Patur",
+      "phone": "054-8492055",
+      "dateOpenTik": "2024-06-27T23:32:24.421Z",
+      "dochSnati": "לא הוגש",
+      "note": "היי"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T07:14:08.422Z",
+    "action": "update",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "326351327",
+      "zuir": "1",
+      "haratKeva": "45",
+      "pay": "61"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T07:14:37.764Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "326351327",
+      "name": "נעמי ל",
+      "status": "Patur",
+      "phone": "054-8492055",
+      "dateOpenTik": "2024-06-27T23:32:24.421Z",
+      "dochSnati": "לא הוגש",
+      "note": "היי"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T07:14:37.794Z",
+    "action": "update",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "326351327",
+      "zuir": "1",
+      "haratKeva": "45",
+      "pay": "61"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T07:14:47.591Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "326351327",
+      "name": "נעמי ל",
+      "status": "Patur",
+      "phone": "054-8492055",
+      "dateOpenTik": "2024-06-27T23:32:24.421Z",
+      "dochSnati": "לא הוגש",
+      "note": "היי"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T07:14:47.629Z",
+    "action": "update",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "326351327",
+      "zuir": "1",
+      "haratKeva": "45",
+      "pay": "61"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T07:14:54.954Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "326351327",
+      "name": "נעמי ל",
+      "status": "Patur",
+      "phone": "054-8492055",
+      "dateOpenTik": "2024-06-27T23:32:24.421Z",
+      "dochSnati": "לא הוגש",
+      "note": "היי"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T07:14:54.991Z",
+    "action": "update",
+    "entity": "paturDetalis",
+    "data": {
+      "id": "326351327",
+      "zuir": "1",
+      "haratKeva": "45",
+      "pay": "61"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T07:20:58.344Z",
+    "action": "update",
+    "entity": "customers",
+    "data": {
+      "id": "313234321",
+      "name": "נעמי",
+      "status": "Morasha",
+      "phone": "0548345432",
+      "dateOpenTik": "2024-06-28T05:51:19.161Z",
+      "dochSnati": "לא הוגש",
+      "note": "עננ"
+    }
+  },
+  {
+    "timestamp": "2024-06-28T07:20:58.391Z",
+    "action": "update",
+    "entity": "mursheDetalis",
+    "data": {
+      "id": "313234321",
+      "T100": "הוגש",
+      "pay": "11"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+.ToastNotification {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000; 
+  width: 300px; 
+
+  .error-toast {
+    background-color: #db5e6b; 
+    color: white;
+  }
+  
+  .success-toast {
+    background-color: #46b146; 
+    color: white; 
+  }
+}
